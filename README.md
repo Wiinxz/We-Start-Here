@@ -15,14 +15,18 @@
 
 ---
 
-## 🚀 About Me
+## ✨ A little more about me...
 
-- 🎓 I’m currently studying Full Stack .NET Development
-- 💻 I work with C#, .NET, Python, HTML, CSS, and JavaScript
-- 🌱 I’m improving my backend and frontend development skills
-- 🎯 I’m looking for my first opportunity as a Junior Developer
-- 📍 Based in Lisbon, Portugal
-
+```javascript
+const hosana = {
+  location: "Lisbon, Portugal",
+  role: "Aspiring Junior Full Stack .NET Developer",
+  code: ["C#", ".NET", "Python", "HTML", "CSS", "JavaScript & more..."],
+  tools: ["Git", "GitHub", "VS Code", "VMware"],
+  interests: ["Web Development", "Backend", "Problem Solving"],
+  currentlyLearning: ["C#", ".NET", "Frontend Development"],
+}
+```
 ---
 
 ## 🛠 Tech Stack
@@ -49,13 +53,6 @@
 - **Version Control** – Organizing projects with Git and GitHub
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wiinxz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiinxz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
