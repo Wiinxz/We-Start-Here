@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 I’m currently studying Full Stack .NET Development
-- 💻 I also work with Python, HTML, CSS, and Git/GitHub
+- 💻 I also work with Python, HTML, CSS, Git/GitHub & more
 - 🌱 I’m currently improving my C#, .NET, and web development skills
 - 🎯 My goal is to get my first opportunity as a Junior Developer
 - 📍 Based in Lisbon, Portugal
@@ -59,4 +59,6 @@ Here are some projects that represent my learning journey and technical growth:
 
 ## ⚡ Fun Fact
 
-I enjoy learning by building hands-on projects and turning challenges into real solutions.
+ - I enjoy learning by building hands-on projects and turning challenges into real solutions 👩🏻‍💻
+ - Tell me a random fact and I'll remember it forever 🧐
+ - I learn best under pressure, chaos is my specialty 😆
