@@ -56,8 +56,6 @@ const hosana = {
 
 ---
 
----
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/hosana-guimar%C3%A3es-428350162/
