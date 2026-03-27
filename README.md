@@ -1,10 +1,16 @@
 # We-Start-Here
 
-<h1 align="center">Hi, I'm Hosana 👋</h1>
-<h3 align="center">Junior Full Stack .NET Developer in progress from Portugal</h3>
+<h1 align="center">Hi, I'm Hosana 🙋‍♀️ </h1>
+<h3 align="center">Aspiring Junior Full Stack .NET Developer from Lisbon 🇵🇹</h3>
 
 <p align="center">
-  Passionate about technology, problem-solving, and building practical projects while growing as a developer.
+  I’m building practical projects, improving my development skills, and looking for my first opportunity in tech.
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+.NET+Student;Building+practical+projects;Learning+C%23,+.NET,+Python+and+Web+Development;Open+to+Junior+Opportunities&center=true&width=700&height=45&color=8A2BE2&size=24">
+  </a>
 </p>
 
 ---
@@ -12,53 +18,56 @@
 ## 🚀 About Me
 
 - 🎓 I’m currently studying Full Stack .NET Development
-- 💻 I also work with Python, HTML, CSS, Git/GitHub & more
-- 🌱 I’m currently improving my C#, .NET, and web development skills
-- 🎯 My goal is to get my first opportunity as a Junior Developer
+- 💻 I work with C#, .NET, Python, HTML, CSS, and JavaScript
+- 🌱 I’m improving my backend and frontend development skills
+- 🎯 I’m looking for my first opportunity as a Junior Developer
 - 📍 Based in Lisbon, Portugal
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-![C#](https://img.shields.io/badge/C%23-7A3EFF?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-6C47FF?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2E86C1?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1B6AC9?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF5F56?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-Here are some projects that represent my learning journey and technical growth:
-
-- **Project Name 1** – In Progress.
-- **Project Name 2** – In Progress..
-- **Project Name 3** – In Progress...
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-7A3EFF?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-6C47FF?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 📌 Featured Areas
 
-- ASP.NET / C#
-- Cleaner GitHub project structure
-- Better frontend design
-- Real-world full stack projects & and will be even more.
+- **Backend Development** – Learning C# and .NET through hands-on practice
+- **Web Development** – Building with HTML, CSS, and JavaScript
+- **Programming Logic** – Strengthening problem-solving with Python
+- **Version Control** – Organizing projects with Git and GitHub
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wiinxz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiinxz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/hosana-guimar%C3%A3es-428350162/
 - Email: hcnguimaraes@gmail.com
 
 ---
 
-## ⚡ Fun Fact
-
+## ✨ Personal Note
+ 
  - I enjoy learning by building hands-on projects and turning challenges into real solutions 👩🏻‍💻
  - Tell me a random fact and I'll remember it forever 🧐
  - I learn best under pressure, chaos is my specialty 😆
